@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in La Rioja, Argentina.
+#### I'm a Sr Backend Developer working in La Rioja, Argentina.
 
 ##### BIO
 
-- 🏢 I'm currently working at **Practia Global**
+- 🏢 I'm currently working at **Personal Pay**
 - ⚙️ My main stack: 
   - Nodejs + React/React Native
   - Python + React/React Native
 - 🌱 Learning about **Flutter**
-- 📫 Reach me: [twitter.com/jsmsalt](https://twitter.com/jsmsalt)
